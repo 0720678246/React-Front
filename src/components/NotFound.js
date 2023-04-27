@@ -22,7 +22,6 @@ const NotFound=()=>{
                             <div className="nav-right">
                                 <a href=""><i className="fas fa-search"></i></a>
                                 <a href=""><span>ENG <i className="fas fa-caret-down"></i></span></a>
-                                <a href=""><i className="fas fa-bars"></i></a>
                             </div>
                         </nav>
                     </div>

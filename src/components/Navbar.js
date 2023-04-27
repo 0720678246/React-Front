@@ -14,13 +14,13 @@ const Navbar=()=>{
                                 <li><Link to="/">Home</Link> </li>
                                 <li><Link to="/about">About Us</Link> </li>
                                 <li><Link to="/blog">Blog</Link> </li>
-                                <li><Link to="/contact">Contact us</Link> </li>
+                                <li><Link to="/contact">Contact us best</Link> </li>
 
                             </ul>
                             <div className="nav-right">
                                 <a href=""><i className="fas fa-search"></i></a>
                                 <a href=""><span>ENG <i className="fas fa-caret-down"></i></span></a>
-                                <a href=""><i className="fas fa-bars"></i></a>
+                                // <a href=""><i className="fas fa-bars"></i></a>
                             </div>
                         </nav>
                     </div>
